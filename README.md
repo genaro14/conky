@@ -1,20 +1,3 @@
-# conky
-Config files for conky Monitor
-
-## Required dependencies
-JQ
-Lm-sensors
-curl
-lua
-
-## Fonts
-Roboto
-Metropolis
-Arimo Nerd Font (or another Nerd Font)
-
-## Scripts 
-+ blue for currency values
-+ weather for climate info
-
-
-
+# Graffias-Custom
+Personal Graffias changes - Conky theme.
+![image](https://user-images.githubusercontent.com/67603536/171429234-61eb01e2-b1b7-4fe1-9fc4-6b9e04cef797.png)
