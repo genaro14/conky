@@ -16,5 +16,7 @@ Arimo Nerd Font (or another Nerd Font)
 + blue for currency values
 + weather for climate info
 
+!(Conky)[https://gitlab.com/]
+
 
 
