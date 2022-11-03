@@ -12,6 +12,5 @@ api_key=6f1eafcca57a01ee04462f1c44a7697d
 # https://openweathermap.org/city/3838874
 city_id=3838874
 
-
-url="https://api.bluelytics.com.ar/v2/latest"
+url="api.openweathermap.org/data/2.5/weather?id=${city_id}&appid=${api_key}&cnt=5&units=metric&lang=es"
 curl ${url} -s -o ~/.cache/weather.json

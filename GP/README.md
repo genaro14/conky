@@ -1,4 +1,4 @@
-# conky
+# Conky GP
 Config files for conky Monitor
 
 ## Required dependencies
@@ -15,6 +15,3 @@ Arimo Nerd Font (or another Nerd Font)
 ## Scripts 
 + blue for currency values
 + weather for climate info
-
-
-
