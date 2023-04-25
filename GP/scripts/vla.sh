@@ -10,6 +10,7 @@ api_key=6f1eafcca57a01ee04462f1c44a7697d
 # get your city id at https://openweathermap.org/find and replace
 # city_id=3369157
 # https://openweathermap.org/city/3838874
-city_id=3838874
+#city_id=3838874 RIO CUARTO
+city_id=3832711
 url="api.openweathermap.org/data/2.5/weather?id=${city_id}&appid=${api_key}&cnt=5&units=metric&lang=es"
-curl ${url} -s -o ~/.cache/weather.json
+curl ${url} -s -o ~/.cache/vla.json
